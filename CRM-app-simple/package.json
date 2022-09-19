@@ -1,0 +1,19 @@
+{
+  "name": "crm-app-simple",
+  "version": "1.0.0",
+  "description": "> Scott Moss & Frontend Masters - [Resources](#resources) - [Course](#course) - [Exercises](#exercises)   - [Installing Node](#installing-node)   - [Modules (node vs browser)](#modules-node-vs-browser)   - [CLI (npm)](#cli-npm)   - [API (async code)](#api-async-code)   - [Debugging & Testing](#debugging--testing)   - [Sharing and Deploying](#sharing-and-deploying)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.18"
+  }
+}
